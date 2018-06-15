@@ -1,5 +1,20 @@
+<<<<<<< HEAD
 .DS_Store
 export/*
 public/*
 source/styleguide/*
 vendor/*
+=======
+node_modules/
+pattern_exports/
+.DS_Store
+Thumbs.db
+.nyc_output/
+.vscode/
+.idea/
+packages/core/test/public
+packages/*/public
+!packages/core/test/patterns/public/.gitkeep
+!packages/core/test/patterns/testDependencyGraph.json
+lerna-debug.log
+>>>>>>> ab8fbc432b45baee56de5517ff3c93ffeae274a9

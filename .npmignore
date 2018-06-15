@@ -1,0 +1,7 @@
+test/
+.DS_Store
+.travis.yml
+.nyc_output/
+.vscode/
+.idea/
+
